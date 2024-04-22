@@ -11,5 +11,5 @@ but it can be built on it and it is simple (GCC).
 You will need to download the files and a C compiler,  
 afterwards go into the 'Folder' and type  
 ```bash
-gcc powers.c -o powers.elf #to automatically run it (remove it to work) && ./powers.elf
+gcc powers.c -o powers.elf #"to automatically run it (remove it to work)" && ./powers.elf
 ```
