@@ -1,5 +1,4 @@
-#include <stdio.h>
-#include <math.h>
+e#include <math.h>
 
 int main()
 {
